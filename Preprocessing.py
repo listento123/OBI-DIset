@@ -46,7 +46,7 @@ def extract_images_from_pdf(pdf_path, output_folder):
 
 
 # Set the PDF file path and image output folder path
-pdf_path = r"D:\pycharm-code\文献检索\long.pdf"  # Replace with your PDF file path
+pdf_path = r"D:\pycharm-code"  # Replace with your PDF file path
 output_folder = "extracted_images"  # Output folder
 
 # Call the function to extract images
