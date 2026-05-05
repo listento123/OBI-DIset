@@ -1,2 +1,2 @@
 # OBI-DIset
-The warehouse contains the data set and experimental code used in the experiment
+The warehouse contains the data set used in the experiment
